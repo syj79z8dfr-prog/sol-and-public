@@ -1,0 +1,108 @@
+{
+  "market": "SOL-AUD",
+  "source": "BTC Markets",
+  "updated_at_utc": "2026-10-26T01:46:00.167712+00:00",
+  "record_count": 10,
+  "records": [
+    {
+      "time_melbourne": "2026-10-26T10:27:52+11:00",
+      "price_aud": 144.49,
+      "volume_ratio": 0.0314,
+      "resistance_aud": 145.98,
+      "support_aud": 142.91,
+      "breakout": false,
+      "near_breakout": true,
+      "signal": false
+    },
+    {
+      "time_melbourne": "2026-10-26T10:28:17+11:00",
+      "price_aud": 144.49,
+      "volume_ratio": 0.0314,
+      "resistance_aud": 145.98,
+      "support_aud": 142.91,
+      "breakout": false,
+      "near_breakout": true,
+      "signal": false
+    },
+    {
+      "time_melbourne": "2026-10-26T10:48:19+11:00",
+      "price_aud": 143.98,
+      "volume_ratio": 0.0314,
+      "resistance_aud": 145.98,
+      "support_aud": 142.91,
+      "breakout": false,
+      "near_breakout": true,
+      "signal": false
+    },
+    {
+      "time_melbourne": "2026-10-26T11:15:04+11:00",
+      "price_aud": 144.16,
+      "volume_ratio": 0.1699,
+      "resistance_aud": 145.98,
+      "support_aud": 142.91,
+      "breakout": false,
+      "near_breakout": true,
+      "signal": false
+    },
+    {
+      "time_melbourne": "2026-10-26T12:19:33+11:00",
+      "price_aud": 143.54,
+      "volume_ratio": 0.8163,
+      "resistance_aud": 145.98,
+      "support_aud": 142.91,
+      "breakout": false,
+      "near_breakout": true,
+      "signal": false
+    },
+    {
+      "time_melbourne": "2026-10-26T12:25:49+11:00",
+      "price_aud": 144.0,
+      "volume_ratio": 0.8163,
+      "resistance_aud": 145.98,
+      "support_aud": 142.91,
+      "breakout": false,
+      "near_breakout": true,
+      "signal": false
+    },
+    {
+      "time_melbourne": "2026-10-26T12:31:36+11:00",
+      "price_aud": 144.0,
+      "volume_ratio": 0.8163,
+      "resistance_aud": 145.98,
+      "support_aud": 142.91,
+      "breakout": false,
+      "near_breakout": true,
+      "signal": false
+    },
+    {
+      "time_melbourne": "2026-10-26T12:34:10+11:00",
+      "price_aud": 144.0,
+      "volume_ratio": 0.8163,
+      "resistance_aud": 145.98,
+      "support_aud": 142.91,
+      "breakout": false,
+      "near_breakout": true,
+      "signal": false
+    },
+    {
+      "time_melbourne": "2026-10-26T12:37:36+11:00",
+      "price_aud": 144.0,
+      "volume_ratio": 0.8163,
+      "resistance_aud": 145.98,
+      "support_aud": 142.91,
+      "breakout": false,
+      "near_breakout": true,
+      "signal": false
+    },
+    {
+      "time_melbourne": "2026-10-26T12:45:57+11:00",
+      "price_aud": 143.53,
+      "volume_ratio": 0.8163,
+      "resistance_aud": 145.98,
+      "support_aud": 142.91,
+      "breakout": false,
+      "near_breakout": true,
+      "signal": false
+    }
+  ]
+}
