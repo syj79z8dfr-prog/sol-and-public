@@ -1,19 +1,9 @@
 {
   "market": "SOL-AUD",
   "source": "BTC Markets",
-  "updated_at_utc": "2026-11-06T16:38:18.337922+00:00",
+  "updated_at_utc": "2026-11-06T17:37:49.140517+00:00",
   "record_count": 10,
   "records": [
-    {
-      "time_melbourne": "2026-11-06T17:52:02+11:00",
-      "price_aud": 130.11,
-      "volume_ratio": 1.5701,
-      "resistance_aud": 138.03,
-      "support_aud": 127.84,
-      "breakout": false,
-      "near_breakout": true,
-      "signal": false
-    },
     {
       "time_melbourne": "2026-11-06T19:04:09+11:00",
       "price_aud": 130.17,
@@ -98,6 +88,16 @@
       "time_melbourne": "2026-11-07T03:38:16+11:00",
       "price_aud": 131.55,
       "volume_ratio": 0.0121,
+      "resistance_aud": 132.0,
+      "support_aud": 127.84,
+      "breakout": false,
+      "near_breakout": true,
+      "signal": false
+    },
+    {
+      "time_melbourne": "2026-11-07T04:37:46+11:00",
+      "price_aud": 131.55,
+      "volume_ratio": 0.0639,
       "resistance_aud": 132.0,
       "support_aud": 127.84,
       "breakout": false,
